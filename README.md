@@ -60,13 +60,16 @@ SQL Server Database
 # 📸 Screenshots
 
 ## Login Page
-(Add login screenshot here)
+![Login](image-link)
 
 ## Main Dashboard
-(Add dashboard screenshot here)
+![Dashboard](IMAGE_LINK_HERE)
 
-## Module Overview
-(Add module screenshot here)
+### Patient Registration Module
+![Patient Registration](image-link)
+
+### Project Architecture
+![Architecture](image-link)
 
 ---
 
