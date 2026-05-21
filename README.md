@@ -60,17 +60,16 @@ SQL Server Database
 # 📸 Screenshots
 
 ## Login Page
-![Login](image-link)
+![Login](https://raw.githubusercontent.com/MdAfsarUddin/Healthcare-Management-Demo/main/1_HIS_Login_Page.png)
 
 ## Main Dashboard
-![Dashboard](IMAGE_LINK_HERE)
+![Dashboard](https://raw.githubusercontent.com/MdAfsarUddin/Healthcare-Management-Demo/main/2_HIS_Deshboard.png)
 
-### Patient Registration Module
-![Patient Registration](image-link)
+## Patient Registration Module
+![Patient Registration](https://raw.githubusercontent.com/MdAfsarUddin/Healthcare-Management-Demo/main/3_Patient_Registration_Screen.png)
 
-### Project Architecture
-![Architecture](image-link)
-
+## Project Architecture
+![Architecture](https://raw.githubusercontent.com/MdAfsarUddin/Healthcare-Management-Demo/main/4_project%20Solution.png)
 ---
 
 # 🌍 Enterprise Highlights
