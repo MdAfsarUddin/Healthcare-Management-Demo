@@ -1,6 +1,6 @@
 # 🏥 Healthcare Management System (Demo)
 <p align="center">
-  <img src="![Dashboard](https://raw.githubusercontent.com/MdAfsarUddin/Healthcare-Management-Demo/main/2_HIS_Deshboard.png)" width="100%" />
+  <img src="https://raw.githubusercontent.com/MdAfsarUddin/Healthcare-Management-Demo/main/2_HIS_Deshboard.png" width="100%" />
 </p>
 Enterprise-level Healthcare ERP solution developed using ASP.NET Core and Blazor, designed to support scalable hospital and healthcare operations.
 
