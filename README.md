@@ -71,7 +71,13 @@ SQL Server Database
 ![Patient Registration](https://raw.githubusercontent.com/MdAfsarUddin/Healthcare-Management-Demo/main/3_Patient_Registration_Screen.png)
 
 ## Project Architecture
-![Architecture](https://raw.githubusercontent.com/MdAfsarUddin/Healthcare-Management-Demo/main/4_project%20Solution.png)
+Frontend (Blazor WebAssembly)
+        ↓
+REST APIs
+        ↓
+ASP.NET Core Backend
+        ↓
+Oracle Database
 ---
 
 # 🌍 Enterprise Highlights
